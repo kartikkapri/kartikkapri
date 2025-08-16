@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud & AI (AWS, Gen AI, Data Science),Advanced DSA & System Design,Streamlit & Flask for building interactive apps**
 
-- 💬 Ask me about **Python | C++ | DSA | OOP Data Analytics (Pandas, Power BI, SQL)**
+- 💬 Ask me about **Python | C++ |DSA | OOPS |Data Analytics (Pandas, Power BI, SQL)**
 
 - 📫 How to reach me **kartikkapri817@gmail.com**
 
